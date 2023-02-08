@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  background-color: black;
+}
+
+h1{text-align: center;
+  color: green;}
+
+img{
+  border-radius: 90px;
+  width: 85%;
+  
+}
+
+.me{display: block;
+   text-align: center;}
+
+p{
+  font-size: 25px;
+  text-align: center;
+  color: green;
+}
+
+.btn{
+  display:block;
+  text-align: center;
+  
+}
+
+button{
+  font-size: 30px;
+  color: green;
+  background-color: black;
+  border-radius: 10px;
+}
+
+button:hover{
+  color: yellow;
+  cursor:pointer;
+}
